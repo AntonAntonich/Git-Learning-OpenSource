@@ -9,6 +9,12 @@ public class App {
     }
 
     void f1(int a ) {
-        
+
     }
+
+    void f2(int a ) {
+
+    }
+
+
 }
