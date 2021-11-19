@@ -17,7 +17,7 @@ public class App {
     }
 
     void f3(int a ) {
-
+        System.out.println("In function 3");
     }
 
 
