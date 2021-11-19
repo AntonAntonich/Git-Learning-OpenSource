@@ -7,4 +7,8 @@ public class App {
     void f(String s ) {
         
     }
+
+    void f1(int a ) {
+        
+    }
 }
