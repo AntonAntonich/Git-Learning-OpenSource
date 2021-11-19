@@ -13,7 +13,7 @@ public class App {
     }
 
     void f2(int a ) {
-
+        System.out.println("in func 2");
     }
 
 
