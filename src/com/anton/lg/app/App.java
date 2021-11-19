@@ -13,7 +13,7 @@ public class App {
     }
 
     void f2(int a ) {
-
+        System.out.println("Fuck out");
     }
 
     void f3(int a ) {
