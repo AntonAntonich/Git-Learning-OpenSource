@@ -16,5 +16,9 @@ public class App {
 
     }
 
+    void f3(int a ) {
+
+    }
+
 
 }
