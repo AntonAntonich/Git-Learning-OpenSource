@@ -19,7 +19,7 @@ public class App {
     void f3(int a ) {
         System.out.println("In function 3");
 
-        System.out.println("in func 2");
+        System.out.println("in func111 2");
 
 
         System.out.println("Other");
@@ -30,7 +30,7 @@ public class App {
     }
 
     int f5(){
-        return 32;
+        return 321111;
     }
 
 
