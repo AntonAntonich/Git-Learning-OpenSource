@@ -1,4 +1,4 @@
 package com.anton.lg.app;
 
-public class Master {
+public class MasterChnged {
 }
