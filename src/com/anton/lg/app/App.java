@@ -38,5 +38,5 @@ public class App {
 }
 
 class Car {
-    
+    String name;
 }
