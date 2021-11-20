@@ -21,6 +21,8 @@ public class App {
 
         System.out.println("in func 2");
 
+
+        System.out.println("Other");
     }
 
 
