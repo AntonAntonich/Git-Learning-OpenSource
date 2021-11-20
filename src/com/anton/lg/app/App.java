@@ -13,11 +13,14 @@ public class App {
     }
 
     void f2(int a ) {
-        System.out.println("Fuck out");
+
     }
 
     void f3(int a ) {
         System.out.println("In function 3");
+
+        System.out.println("in func 2");
+
     }
 
 
