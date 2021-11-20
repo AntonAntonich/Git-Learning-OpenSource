@@ -25,5 +25,9 @@ public class App {
         System.out.println("Other");
     }
 
+    int f4(){
+        return 32;
+    }
+
 
 }
