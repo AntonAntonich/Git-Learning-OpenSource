@@ -29,5 +29,9 @@ public class App {
         return 32;
     }
 
+    int f5(){
+        return 32;
+    }
+
 
 }
